@@ -1,0 +1,77 @@
+html
+{
+  min-width: 1280px;
+  color: #080908;
+}
+body
+ {
+  min-width: 1280px;
+  font-size:12px;
+  color: #080908;
+}
+a
+{
+  text-decoration: none;
+  color: #080908;
+}
+.header
+{
+  height: 130px;
+}
+.wrapper
+{
+  width:1280px;
+  margin: 0 auto;
+  background: #f4f4f4;
+}
+#logo img
+{
+    width: 150px;
+    float: left;
+  }
+  .mainMenu
+  {
+    float: left;
+    margin-left: 70px;
+    margin-top: 15px;
+  }
+ .mainMenu ul li
+ {
+   font-family: 'Conv_Metropolis 1920';
+   float: left;
+   margin-right: 20px;
+   font-size: 60px;
+
+ }
+.phoneHead
+{
+  margin-top: 15px;
+  float: right;
+  font-size: 20px;
+  font-family: 'Conv_Perfograma';
+}
+.btnConnect
+{
+  background-color: #0D10C9;
+  color: #FDFDFD;
+  text-align: center;
+  padding: 5px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.info
+{
+  text-align: right;
+}
+.clear
+{
+  clear:both;
+}
+.main
+{
+  background-image: url(../images/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 1200px;
+
+}
