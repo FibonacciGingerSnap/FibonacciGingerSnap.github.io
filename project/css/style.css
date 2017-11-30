@@ -1,36 +1,40 @@
 html
 {
   min-width: 1280px;
-  color: #080908;
+  color: #000000;
+
 }
 body
  {
   min-width: 1280px;
   font-size:12px;
-  color: #080908;
+  color: #000000;
+  background-color: #FFFF00;
 }
 a
 {
   text-decoration: none;
-  color: #080908;
+  color: #000000;
 }
 .header
 {
-  height: 130px;
+  height: 128px;
+
 }
 .wrapper
 {
   width:1280px;
-  margin: 0 auto;
-  background: #f4f4f4;
+  margin:0 auto;
+
 }
 #logo img
 {
-    width: 150px;
+    width: 130px;
     float: left;
   }
   .mainMenu
   {
+
     float: left;
     margin-left: 70px;
     margin-top: 15px;
@@ -39,7 +43,7 @@ a
  {
    font-family: 'Conv_Metropolis 1920';
    float: left;
-   margin-right: 20px;
+   margin-right: 30px;
    font-size: 60px;
 
  }
@@ -47,13 +51,15 @@ a
 {
   margin-top: 15px;
   float: right;
+  font-weight: bold;
   font-size: 20px;
   font-family: 'Conv_Perfograma';
 }
 .btnConnect
 {
-  background-color: #0D10C9;
-  color: #FDFDFD;
+  background-color: #5C96C9;
+  color: #FFFFFF;
+  font-weight: bold;
   text-align: center;
   padding: 5px;
   margin-top: 10px;
@@ -72,6 +78,8 @@ a
   background-image: url(../images/bg.jpg);
   background-repeat: no-repeat;
   background-size: contain;
+  margin: auto;
+  width: 1280px;
   height: 1200px;
 
 }
