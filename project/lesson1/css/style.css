@@ -43,6 +43,7 @@ text-decoration-color: black;
   }
   .mainMenu
   {
+    text-shadow: 2px 2px 1px;
     float: left;
     margin-left: 70px;
     margin-top: 15px;

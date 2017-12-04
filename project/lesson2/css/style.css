@@ -46,6 +46,7 @@ text-decoration-color: black;
     float: left;
     margin-left: 70px;
     margin-top: 15px;
+    text-shadow: 2px 2px 1px;
   }
  .mainMenu ul li
  {
@@ -97,5 +98,5 @@ height: 30px;
 }
 .main span
 {
-  text-shadow: 1px 1px 2px black, 0 0 1em green;
+  text-shadow: 1px 1px 2px black, 0 0 1em yellow;
 }
