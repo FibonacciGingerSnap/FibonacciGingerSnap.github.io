@@ -27,7 +27,7 @@ text-decoration-color: black;
 .header
 {
   background-image: url("../../images/bg-header.jpg");
-  background-size: contain;
+  background-size:cover;
   height: 135px;
 }
 .wrapper
@@ -37,6 +37,7 @@ text-decoration-color: black;
 }
 #logo img
 {
+  margin-top: 5px;
     width: 130px;
     float: left;
   }
